@@ -28,3 +28,6 @@ My inexpertice in coding but I will try my best because I want to learn how to c
 |  Feature anchor points  |  Size of features |  periferal view |  N/A  |
 |  HSB  |  "Random" pastel colors  |  At random.  |  N/A  |
 |  Everything else  |  Background shapes  |  Face being present  |  N/A  |
+
+## What is going to be hard/Uncertain
+What will be hard is going to be really hard is getting the program to detect the size of their facial features for its respected shape size.

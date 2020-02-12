@@ -23,7 +23,8 @@ My inexpertice in coding but I will try my best because I want to learn how to c
 
 ## Deconstruction
 |  DATA  |  RENDER  |  STIMULATION  |  EVENTS  |
-| :---         |           :--- |        ---: |    ---: |
+| :---         |           :--- |        :--- |    :--- |
 |  Face of the person  |  Pertaining Shapes to features  |  Location of features  | N/A  |
-|  Feature anchor points  |  Size of features |  periferal view |  
-|  
+|  Feature anchor points  |  Size of features |  periferal view |  N/A  |
+|  HSB  |  "Random" pastel colors  |  At random.  |  N/A  |
+|  Everything else  |  Background shapes  |  Face being present  |  N/A  |

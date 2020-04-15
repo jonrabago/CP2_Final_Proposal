@@ -15,7 +15,7 @@ On the software side, I will be using CodeSandbox to code the game into fruition
 
 ### Block Diagram
 
-![Paper Fortune Teller Diagram](diagramdiagram.png)
+![Paper Fortune Teller Diagram](diagram.png)
 
 ## Challenges
 
